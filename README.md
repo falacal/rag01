@@ -3,7 +3,7 @@ Retrieval Augmented Generation Turkish Support
 
 kurulum
 
-gelişmiş otamatik kurulum
+gelişmiş otomatik kurulum
 
 conda env create -f environment.yml
 
